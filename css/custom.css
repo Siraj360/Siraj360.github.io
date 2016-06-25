@@ -1,0 +1,13 @@
+/* your styles go here */
+
+.navbar-my-brand {
+  padding: 22px 15px !Important;
+  font-size: 32px !Important;
+  line-height: 32px  !Important;
+  color: #5aa29a  !Important;
+}
+
+
+.customer > img {
+  height: 80px !Important;
+}
